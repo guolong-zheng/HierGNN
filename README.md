@@ -1,1 +1,1 @@
-# HierGANN
+# HierGNN
